@@ -4,7 +4,7 @@ Collection of papers, datasets and various resources for drone computer vision -
 - Models
   - YOLO
     - YOLOv3: An Incremental Improvement [[paper]](https://arxiv.org/abs/1804.02767)
-    - YOLOv4: Optimal Speed and Accuracy of Object Detection [[paper]](https://arxiv.org/abs/2004.10934)
+    - YOLOv4: Optimal Speed and Accuracy of Object Detection [[paper]](https://arxiv.org/abs/2004.10934) [[code]](https://github.com/AlexeyAB/darknet)
     - YOLOv5 [[github]](https://github.com/ultralytics/yolov5)
   - Anchor-free models
     - YOLOX: Exceeding YOLO Series in 2021 [[paper]](https://arxiv.org/abs/2107.08430)
