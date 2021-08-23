@@ -3,6 +3,8 @@ Collection of papers, datasets and various resources for drone computer vision -
 
 - Models
   - YOLO
+    - YOLOv1 (You Only Look Once: Unified, Real-Time Object Detection) [[paper]](https://arxiv.org/abs/1506.02640)
+    - YOLOv2 (YOLO9000: Better, Faster, Stronger) [[paper]](https://arxiv.org/abs/1612.08242)
     - YOLOv3: An Incremental Improvement [[paper]](https://arxiv.org/abs/1804.02767)
     - YOLOv4: Optimal Speed and Accuracy of Object Detection [[paper]](https://arxiv.org/abs/2004.10934) [[code]](https://github.com/AlexeyAB/darknet)
     - YOLOv5 [[github]](https://github.com/ultralytics/yolov5)
