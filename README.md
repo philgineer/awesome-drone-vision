@@ -18,6 +18,10 @@ Collection of papers, datasets and various resources for drone computer vision -
     - Object Detection in Drone Imagery via Sample Balance Strategies and Local Feature Enhancement (2021) [[paper]](https://www.mdpi.com/2076-3417/11/8/3547)
   - ZoomInNet
     - ZoomInNet: A Novel Small Object Detector in Drone Images with Cross-Scale Knowledge Distillation (2021) [[paper]](https://www.mdpi.com/2072-4292/13/6/1198)
+  - Unet
+    - U-Net: Convolutional Networks for Biomedical Image Segmentation (2015) [[paper]](https://arxiv.org/abs/1505.04597)
+    - UNet++: A Nested U-Net Architecture for Medical Image Segmentation (2018) [[paper]](https://arxiv.org/abs/1807.10165)
+    - IterNet: Retinal Image Segmentation Utilizing Structural Redundancy in Vessel Networks (2019) [[paper]](https://arxiv.org/abs/1912.05763)
 
 ## Datasets
   - VisDrone (2019) [[github]](https://github.com/VisDrone/VisDrone-Dataset) [[home]](http://aiskyeye.com/) [[paper]](https://arxiv.org/abs/2001.06303)
