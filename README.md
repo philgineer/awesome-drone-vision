@@ -27,7 +27,7 @@ Collection of papers, datasets and various resources for drone computer vision -
   - CrackNet-V (Pixel-level cracking detection on 3D asphalt pavement images through deep-learning-based CrackNet-V) (2019) [[paper]](https://ieeexplore.ieee.org/document/8620557)
   - DeepCrack: A deep hierarchical feature learning architecture for crack segmentation (2019) [[paper]](https://github.com/yhlleo/DeepCrack/blob/master/paper/DeepCrack-Neurocomputing-2019.pdf) [[github]](https://github.com/yhlleo/DeepCrack)
   - SDDNet: Real-Time Crack Segmentation (2019) [[paper]](https://ieeexplore.ieee.org/abstract/document/8863123)
-  - SCCDNet: A Pixel-Level Crack Segmentation Network (2021) [[paper]](https://www.mdpi.com/2076-3417/11/11/5074)
+  - SCCDNet: A Pixel-Level Crack Segmentation Network (2021) [[paper]](https://www.mdpi.com/2076-3417/11/11/5074) [[github]](https://github.com/543630836/SCCDNet_crack)
 
 ## Datasets
 - Drone
