@@ -1,7 +1,10 @@
-# awesome-drone-vision
-Collection of papers, codes, datasets and other resources for drone computer vision.
+# Awesome Drone Vision
+- Models
+  - [Object Detection](#object-detection-models)
+  - [Segmentation](#segmentation-models)
+- [Datasets](#datasets)
 
-## Models for object detection
+## Object Detection Models
 - YOLO
   - YOLOv1 (You Only Look Once: Unified, Real-Time Object Detection) (2015) [[paper]](https://arxiv.org/abs/1506.02640)
   - YOLOv2 (YOLO9000: Better, Faster, Stronger) (2016) [[paper]](https://arxiv.org/abs/1612.08242)
@@ -20,7 +23,7 @@ Collection of papers, codes, datasets and other resources for drone computer vis
   - ZoomInNet: A Novel Small Object Detector in Drone Images with Cross-Scale Knowledge Distillation (2021) [[paper]](https://www.mdpi.com/2072-4292/13/6/1198)
 
 
-## Models for segmentation
+## Segmentation Models
 - SegNet
   - SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation (2015) [[paper]](https://arxiv.org/abs/1511.00561)
 - DeepLab
