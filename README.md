@@ -1,7 +1,7 @@
 # awesome-drone-vision
-Collection of papers, datasets and various resources for drone computer vision - especially object detection and tracking.
+Collection of papers, codes, datasets and other resources for drone computer vision.
 
-## Models
+## Models for object detection
 - YOLO
   - YOLOv1 (You Only Look Once: Unified, Real-Time Object Detection) (2015) [[paper]](https://arxiv.org/abs/1506.02640)
   - YOLOv2 (YOLO9000: Better, Faster, Stronger) (2016) [[paper]](https://arxiv.org/abs/1612.08242)
@@ -18,16 +18,24 @@ Collection of papers, datasets and various resources for drone computer vision -
   - Object Detection in Drone Imagery via Sample Balance Strategies and Local Feature Enhancement (2021) [[paper]](https://www.mdpi.com/2076-3417/11/8/3547)
 - ZoomInNet
   - ZoomInNet: A Novel Small Object Detector in Drone Images with Cross-Scale Knowledge Distillation (2021) [[paper]](https://www.mdpi.com/2072-4292/13/6/1198)
+
+
+## Models for segmentation
+- SegNet
+  - SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation (2015) [[paper]](https://arxiv.org/abs/1511.00561)
+- DeepLab
+  - DeepLab V3 (Rethinking Atrous Convolution for Semantic Image Segmentation) (2017) [[paper]](https://arxiv.org/abs/1706.05587) [[github]](https://github.com/pytorch/vision/blob/master/torchvision/models/segmentation/deeplabv3.py)
+  - DeepLab V3+ (Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation) (2018) [[paper]](https://arxiv.org/abs/1802.02611)
+- Crack segmentation
+  - CrackNet (Automated pixel-level pavement crack detection on 3D asphalt surfaces using a deep-learning network) (2017) [[paper(paid)]](https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12297)
+  - CrackNet-V (Pixel-level cracking detection on 3D asphalt pavement images through deep-learning-based CrackNet-V) (2019) [[paper(paid)]](https://ieeexplore.ieee.org/document/8620557)
+  - DeepCrack: A deep hierarchical feature learning architecture for crack segmentation (2019) [[paper]](https://github.com/yhlleo/DeepCrack/blob/master/paper/DeepCrack-Neurocomputing-2019.pdf) [[github]](https://github.com/yhlleo/DeepCrack)
+  - SDDNet: Real-Time Crack Segmentation (2019) [[paper]](https://ieeexplore.ieee.org/abstract/document/8863123)
+  - SCCDNet: A Pixel-Level Crack Segmentation Network (2021) [[paper]](https://www.mdpi.com/2076-3417/11/11/5074) [[github]](https://github.com/543630836/SCCDNet_crack)
 - Unet
   - U-Net: Convolutional Networks for Biomedical Image Segmentation (2015) [[paper]](https://arxiv.org/abs/1505.04597)
   - UNet++: A Nested U-Net Architecture for Medical Image Segmentation (2018) [[paper]](https://arxiv.org/abs/1807.10165)
   - IterNet: Retinal Image Segmentation Utilizing Structural Redundancy in Vessel Networks (2019) [[paper]](https://arxiv.org/abs/1912.05763) [[github]](https://github.com/conscienceli/IterNet)
-- CrackNet
-  - CrackNet (Automated pixel-level pavement crack detection on 3D asphalt surfaces using a deep-learning network) (2017) [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12297)
-  - CrackNet-V (Pixel-level cracking detection on 3D asphalt pavement images through deep-learning-based CrackNet-V) (2019) [[paper]](https://ieeexplore.ieee.org/document/8620557)
-  - DeepCrack: A deep hierarchical feature learning architecture for crack segmentation (2019) [[paper]](https://github.com/yhlleo/DeepCrack/blob/master/paper/DeepCrack-Neurocomputing-2019.pdf) [[github]](https://github.com/yhlleo/DeepCrack)
-  - SDDNet: Real-Time Crack Segmentation (2019) [[paper]](https://ieeexplore.ieee.org/abstract/document/8863123)
-  - SCCDNet: A Pixel-Level Crack Segmentation Network (2021) [[paper]](https://www.mdpi.com/2076-3417/11/11/5074) [[github]](https://github.com/543630836/SCCDNet_crack)
 
 ## Datasets
 - Drone
