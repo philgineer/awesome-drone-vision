@@ -1,6 +1,7 @@
 # Awesome Drone Vision
 - Models
   - [Object Detection](#object-detection-models)
+  - [Object Tracking](#object-tracking-models)
   - [Segmentation](#segmentation-models)
 - [Datasets](#datasets)
 
