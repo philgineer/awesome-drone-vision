@@ -22,6 +22,8 @@
 - ZoomInNet
   - ZoomInNet: A Novel Small Object Detector in Drone Images with Cross-Scale Knowledge Distillation (2021) [[paper]](https://www.mdpi.com/2072-4292/13/6/1198)
 
+## Object Tracking Models
+- FairMOT: On the Fairness of Detection and Re-Identification in Multiple Object Tracking (2020) [[paper]](https://arxiv.org/abs/2004.01888) [[github]](https://github.com/ifzhang/FairMOT)
 
 ## Segmentation Models
 - SegNet
