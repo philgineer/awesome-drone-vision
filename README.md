@@ -25,6 +25,9 @@
 
 ## Object Tracking Models
 - FairMOT: On the Fairness of Detection and Re-Identification in Multiple Object Tracking (2020) [[paper]](https://arxiv.org/abs/2004.01888) [[github]](https://github.com/ifzhang/FairMOT)
+- SORT
+  - SORT (Simple Online and Realtime Tracking) (2016) [[paper]](https://arxiv.org/abs/1602.00763) [[github]](https://github.com/abewley/sort)
+  - DeepSORT (Simple Online and Realtime Tracking with a Deep Association Metric) (2017) [[paper]](https://arxiv.org/abs/1703.07402) [[github]](https://github.com/nwojke/deep_sort)
 
 ## Segmentation Models
 - SegNet
