@@ -14,6 +14,8 @@
   - YOLOv5 (2020) [[github]](https://github.com/ultralytics/yolov5)
 - SSD
   - SSD: Single Shot MultiBox Detector (2016) [[paper]](https://arxiv.org/abs/1512.02325)
+- EfficientNet
+  - EfficientDet: Scalable and Efficient Object Detection (2019) [[paper]](https://arxiv.org/abs/1911.09070) [[github]](https://github.com/xuannianz/EfficientDet)
 - Anchor-free models
   - YOLOX: Exceeding YOLO Series in 2021 [[paper]](https://arxiv.org/abs/2107.08430)
   - FCOS: Fully Convolutional One-Stage Object Detection (2019) [[paper]](https://arxiv.org/abs/1904.01355)
@@ -24,7 +26,8 @@
   - ZoomInNet: A Novel Small Object Detector in Drone Images with Cross-Scale Knowledge Distillation (2021) [[paper]](https://www.mdpi.com/2072-4292/13/6/1198)
 
 ## Object Tracking Models
-- FairMOT: On the Fairness of Detection and Re-Identification in Multiple Object Tracking (2020) [[paper]](https://arxiv.org/abs/2004.01888) [[github]](https://github.com/ifzhang/FairMOT)
+- MOT
+  - FairMOT: On the Fairness of Detection and Re-Identification in Multiple Object Tracking (2020) [[paper]](https://arxiv.org/abs/2004.01888) [[github]](https://github.com/ifzhang/FairMOT)
 - SORT
   - SORT (Simple Online and Realtime Tracking) (2016) [[paper]](https://arxiv.org/abs/1602.00763) [[github]](https://github.com/abewley/sort)
   - DeepSORT (Simple Online and Realtime Tracking with a Deep Association Metric) (2017) [[paper]](https://arxiv.org/abs/1703.07402) [[github]](https://github.com/nwojke/deep_sort)
