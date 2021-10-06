@@ -54,3 +54,6 @@
 - Crack
   - CCIC (Concrete Crack Images for Classification) (2019) [[home]](https://data.mendeley.com/datasets/5y9wdsg2zt/2)
   - SDNET2018: A concrete crack image dataset for machine learning applications [[home]](https://digitalcommons.usu.edu/all_datasets/48/)
+- Object Tracking
+  - MOT (Multiple Object Tracking) [[home]](https://motchallenge.net/)
+  - VOT (visual object tracking) [[home]](https://votchallenge.net/)
