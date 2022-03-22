@@ -55,6 +55,7 @@
   - UAVDT (2018) [[home]](https://sites.google.com/view/grli-uavdt/%E9%A6%96%E9%A1%B5) [[paper]](https://arxiv.org/abs/1804.00518)
   - UAV-Human (2021) [[github]](https://github.com/SUTDCV/UAV-Human) [[paper]](https://arxiv.org/abs/2104.00946)
 - Crack
+  - CCSD (Concrete Crack Segmentation Dataset) (2019) [[home]](https://data.mendeley.com/datasets/jwsn7tfbrp/1)
   - CCIC (Concrete Crack Images for Classification) (2019) [[home]](https://data.mendeley.com/datasets/5y9wdsg2zt/2)
   - SDNET2018: A concrete crack image dataset for machine learning applications [[home]](https://digitalcommons.usu.edu/all_datasets/48/)
 - Object Tracking
